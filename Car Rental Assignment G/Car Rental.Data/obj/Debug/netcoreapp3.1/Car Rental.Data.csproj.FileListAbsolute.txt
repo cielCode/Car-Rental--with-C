@@ -1,0 +1,13 @@
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\bin\Debug\netcoreapp3.1\Car Rental.Data.deps.json
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\bin\Debug\netcoreapp3.1\Car Rental.Data.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\bin\Debug\netcoreapp3.1\Car Rental.Data.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\bin\Debug\netcoreapp3.1\Car Rental.Common.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\bin\Debug\netcoreapp3.1\Car Rental.Common.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.AssemblyInfoInputs.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.AssemblyInfo.cs
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.csproj.CoreCompileInputs.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.csproj.CopyComplete
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.csproj.AssemblyReference.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Data\obj\Debug\netcoreapp3.1\Car Rental.Data.GeneratedMSBuildEditorConfig.editorconfig

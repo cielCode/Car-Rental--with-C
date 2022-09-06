@@ -1,0 +1,15 @@
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.deps.json
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Common.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Data.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Data.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Common.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.AssemblyInfoInputs.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.AssemblyInfo.cs
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csproj.CoreCompileInputs.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csproj.CopyComplete
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.dll
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.pdb
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csproj.AssemblyReference.cache
+C:\Users\shew\Documents\Programering\Programmering skola\Car Rental Assignmen G\Car Rental Assignment G\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.GeneratedMSBuildEditorConfig.editorconfig
